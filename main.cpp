@@ -20,6 +20,7 @@ int main()
 {
     sf::RenderWindow window(sf::VideoMode(WINDOW_WIDTH, WINDOW_HEIGHT), "TEST TEST");
 
+    // test addding comment by atomic
 
     //--------------renderTexture---------------
     sf::RenderTexture generatedTexture; //declares the RenderTexture
