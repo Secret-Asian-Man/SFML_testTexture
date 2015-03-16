@@ -13,6 +13,7 @@ sf::Vector2f POINT2(250,200);
 sf::Vector2f POINT3(50,50);
 sf::Vector2f POINT4(100,50);
 
+// test comment
 
 
 int main()
